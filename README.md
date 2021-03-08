@@ -10,3 +10,5 @@
         - ***Keyword*** → a word that has special meaning in the programming language; these words cannot be used as variable names for your own program
         - ***Identifier/Name*** → a word that refers to something in a program (such as variable, function, etc.)
         - ***Whitespace*** → all characters that are not visible
+    - Software
+    - Technologies
